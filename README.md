@@ -2,11 +2,11 @@
 ## 👋 Hi, I'm Clément Avenel !
 Streamer, Fullstack Developer & Speaker from Rouen, FRANCE.
 
-Currently working at [Squadracer](https://squadracer.com), a Teal Organization of 13 awesome people 💙
+Currently working at [Pennylane](https://pennylane.com)
 
-Join our dev community on our [Twitch](https://www.twitch.tv/squadracer) channel !<br />We stream every Monday, Thursday & Friday, 12:30pm to 2pm
+Follow me on [Twitch](https://www.twitch.tv/squadracer) !
 
-[![Twitch](https://img.shields.io/twitch/status/squadracer?style=social)](https://www.twitch.tv/squadracer)
+[![Twitch](https://img.shields.io/twitch/status/misterquidam?style=social)](https://www.twitch.tv/misterquidam)
 
 Feel free to get in touch with me :
 
