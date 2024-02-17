@@ -4,7 +4,7 @@ Streamer, Fullstack Developer & Speaker from Rouen, FRANCE.
 
 Currently working at [Pennylane](https://pennylane.com)
 
-Follow me on [Twitch](https://www.twitch.tv/squadracer) !
+Follow me on [Twitch](https://www.twitch.tv/misterquidam) !
 
 [![Twitch](https://img.shields.io/twitch/status/misterquidam?style=social)](https://www.twitch.tv/misterquidam)
 
